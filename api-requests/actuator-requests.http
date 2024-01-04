@@ -1,0 +1,2 @@
+### Actuator Refresh
+POST {{host}}/actuator/refresh
